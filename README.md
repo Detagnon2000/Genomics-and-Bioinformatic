@@ -1,2 +1,2 @@
 # Genomics-and-Bioinformatic
-My experience sin genomics and bioinformatic
+My experiences in genomics and bioinformatic
